@@ -14,7 +14,7 @@ export default class ListCard extends React.Component {
           height: 182,
           elevation: 1,
           width: 270,
-          borderRadius: 15,
+          borderRadius: 16,
         }}
       >
         <View
