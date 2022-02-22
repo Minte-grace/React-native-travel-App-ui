@@ -6,6 +6,7 @@ import * as Font from 'expo-font';
 import {AppLoading} from 'expo'
 
 
+
 export default class App extends React.Component{
   state = {
         isFontLoaded : false
