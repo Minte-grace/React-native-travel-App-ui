@@ -4,7 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 import AppNavigator from './src/navigations/Navigator'
 import * as Font from 'expo-font';
 import {AppLoading} from 'expo'
-//the first 
+//the first
+// 
 
 
 export default class App extends React.Component{
