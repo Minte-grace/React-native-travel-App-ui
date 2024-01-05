@@ -8,7 +8,7 @@ import {AppLoading} from 'expo'
 
 export default class App extends React.Component{
   state = {
-        isFontLoaded : false
+        isFontLoaded = false
   }
   async componentDidMount(){
     await Font.loadAsync({
